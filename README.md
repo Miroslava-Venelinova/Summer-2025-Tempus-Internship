@@ -19,8 +19,15 @@ Main topics covered during the internship:
 
 <img width="480" height="410" src="https://github.com/user-attachments/assets/524a8827-b9fd-4b76-a5db-3f5408e1c552" />
  
-* Tree classification algorithm -
-* Tree regression algorithm -
+### Tree classification algorithm:
+   * tree_classify.py - implementation of a decision tree classification algorithm - heart.csv
+
+<img width="500" height="500" src="https://github.com/user-attachments/assets/0af07bfb-7859-4135-bd90-11dc3a3f138c" />
+
+<img width="480" height="410" src="https://github.com/user-attachments/assets/aa39d2f2-be49-4b58-a908-59ce23a7b9ab" />
+
+### Tree regression algorithm
+ 
 * Face recognition with UGOT robot -
 * Image analysis:
   1) Colour picking form an image -
