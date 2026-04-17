@@ -1,7 +1,7 @@
 # Summer-2025-Tempus-Internship
 
 ## About
-This repository contains several project assignments completed during the theoretical module of the internship at "Tempus 2000".
+This repository contains several project assignments completed during the theoretical module of the internship at Tempus 2000
 
 Main topics covered during the internship: 
 - Fundamentals of Python programming
@@ -26,10 +26,15 @@ Main topics covered during the internship:
 
 <img width="480" height="410" src="https://github.com/user-attachments/assets/aa39d2f2-be49-4b58-a908-59ce23a7b9ab" />
 
-### Tree regression algorithm
- 
-* Face recognition with UGOT robot -
-* Image analysis:
+### Tree regression algorithm:
+   * tree_regression.py - implementation of a decision tree regression algorithm - StudentsPerformance.csv (provided)
+
+<img width="480" height="410" src="https://github.com/user-attachments/assets/4d7d4cda-8043-4b2a-8a2a-ad3421a87b3e" />
+
+### Face recognition with UGOT robot:
+
+
+### Image analysis:
   1) Colour picking form an image -
   2) Colour recognition with UGOT robot -
   3) Image recognition with UGOT robot -
