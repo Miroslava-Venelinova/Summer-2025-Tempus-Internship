@@ -10,7 +10,12 @@ Main topics covered during the internship:
 - Working with UGOT robots
 
 ## Project assignments
-* Linear regression algorithms - 
+### Linear regression algorithms:
+  * linear1.py - implementation of a linear regression algorithm:
+
+<img width="480" height="410" src="https://github.com/user-attachments/assets/943fccc9-d3a6-4015-a941-54f8c6a7922e" />
+
+  * linear2.py - 
 * Tree classification algorithm -
 * Tree regression algorithm -
 * Face recognition with UGOT robot -
