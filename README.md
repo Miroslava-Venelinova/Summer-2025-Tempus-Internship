@@ -18,6 +18,10 @@ Main topics covered during the internship:
   * linear2.py - implementation of a linear regression algorithm that uses real data from Kaggle - insurance.csv
 
 <img width="480" height="410" src="https://github.com/user-attachments/assets/524a8827-b9fd-4b76-a5db-3f5408e1c552" />
+
+  * HW_1_ML_algorithms.py - implementation of a linear regression algorithm - SAT_GPA.csv
+
+<img width="480" height="410" src="https://github.com/user-attachments/assets/4d7d4cda-8043-4b2a-8a2a-ad3421a87b3e" />
  
 ### Tree classification algorithm:
    * tree_classify.py - implementation of a decision tree classification algorithm - heart.csv
@@ -29,15 +33,12 @@ Main topics covered during the internship:
 ### Tree regression algorithm:
    * tree_regression.py - implementation of a decision tree regression algorithm - StudentsPerformance.csv (provided)
 
-<img width="480" height="410" src="https://github.com/user-attachments/assets/4d7d4cda-8043-4b2a-8a2a-ad3421a87b3e" />
-
-### Face recognition with UGOT robot:
-
+### Face recognition with UGOT robot
 
 ### Image analysis:
   1) Colour picking form an image -
   2) Colour recognition with UGOT robot -
-  3) Image recognition with UGOT robot -
-  4) Word recognition with UGOT robot - 
+  3) Image recognition with UGOT robot - 
+  4) Word recognition with UGOT robot - the goal of the task was to place a sheet of paper with a legibly written English word at a specific distance from the robot’s camera and determine what the word was - 
 
 
