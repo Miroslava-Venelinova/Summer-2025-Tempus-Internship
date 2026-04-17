@@ -15,7 +15,10 @@ Main topics covered during the internship:
 
 <img width="480" height="410" src="https://github.com/user-attachments/assets/943fccc9-d3a6-4015-a941-54f8c6a7922e" />
 
-  * linear2.py - 
+  * linear2.py - implementation of a linear regression algorithm that uses real data from Kaggle - insurance.csv
+
+<img width="480" height="410" src="https://github.com/user-attachments/assets/524a8827-b9fd-4b76-a5db-3f5408e1c552" />
+ 
 * Tree classification algorithm -
 * Tree regression algorithm -
 * Face recognition with UGOT robot -
