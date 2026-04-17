@@ -36,7 +36,7 @@ Main topics covered during the internship:
 ### Face recognition with UGOT robot
 
 ### Image analysis:
-  1) **Colour picking form an image** -
+  1) **Colour picking form an image** - colour_picker_images.py
   2) **Colour recognition with UGOT robot** - The objective of the task was to ensure that an object with a clearly distinguishable color would be recognized when placed - colour_recognition_boundary_box.py
   3) **Image recognition with UGOT robot** - the goal of the task was to determine a person’s gender, emotion, and whether they were wearing a protective mask when standing in front of the robot’s camera - camera_face_attributes.py & face_recognition_ugot.py
   4) **Word recognition with UGOT robot** - the goal of the task was to place a sheet of paper with a legibly written English word at a specific distance from the robot’s camera and determine what the word was - camera_text_recognition.py
